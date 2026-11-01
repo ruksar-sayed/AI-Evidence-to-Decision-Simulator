@@ -1,4 +1,3 @@
-# AI-Evidence-to-Decision-Simulator
 # AI Evidence to Decision Simulator
 
 An interactive Streamlit app that simulates how an investigator turns scattered evidence into a decision, using a **missing shipment** case. Users query an AI assistant, gather evidence from case records, and make a final call. The app then scores how well that decision is supported by the evidence.
