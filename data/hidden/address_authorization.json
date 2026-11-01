@@ -1,0 +1,7 @@
+{
+    "id": "E007",
+    "source": "address_authorization.json",
+    "date": "2026-10-04",
+    "type": "Authorization Record",
+    "text": "Synthetic supplemental record: an address-change authorization record is available for review. Its contents must be verified before authorization can be established."
+}

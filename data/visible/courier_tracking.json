@@ -1,0 +1,7 @@
+{
+    "id": "E003",
+    "source": "courier_tracking.json",
+    "date": "2026-10-05",
+    "type": "Courier Record",
+    "text": "Courier tracking reports delivery completed. This record does not specify the quantity physically received by the warehouse."
+}

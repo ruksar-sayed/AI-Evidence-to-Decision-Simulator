@@ -1,0 +1,7 @@
+{
+    "id": "E001",
+    "source": "purchase_order.json",
+    "date": "2026-10-01",
+    "type": "Purchase Order",
+    "text": "The buyer ordered 500 electronic components with a total stated value of INR 1800000."
+}

@@ -1,0 +1,7 @@
+{
+    "id": "E005",
+    "source": "address_change_email.json",
+    "date": "2026-10-04",
+    "type": "Email",
+    "text": "An email mentions a delivery-address change. The available record does not establish whether the change was properly authorized."
+}
